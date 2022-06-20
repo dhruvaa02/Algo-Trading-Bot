@@ -1,0 +1,3 @@
+import yfinance
+
+yfinance.ticker
